@@ -1,2 +1,10 @@
-185.33.157.34
-13.54.151.84
+# provide ip addresses through this file
+ip 1
+ip 2
+ip 3
+|
+|
+|
+|
+|
+ip n
